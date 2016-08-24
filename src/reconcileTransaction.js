@@ -89,7 +89,6 @@ const Mixin = {
 Object.assign(
   TinyRendererReconcileTransaction.prototype,
   Transaction.Mixin,
-  TinyRendererReconcileTransaction,
   Mixin
 );
 
